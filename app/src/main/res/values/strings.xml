@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Charge Monitor</string>
+    <string name="notification_title">Charge Monitor</string>
+    <string name="notification_message">Charge Monitor is running.</string>
+
+    <string name="notification_channel_name">Foreground Service</string>
+    <string name="notification_channel_description">Notifications used to support foreground services.</string>
+    <string name="quit_action_label">Quit</string>
+</resources>
